@@ -1,0 +1,12 @@
+{
+    "emoji": ":smirk_cat:",
+    "role": "Student",
+    "introduction": "write something about yourself",
+    "achievements": [
+        "Achievement1",
+        "Achievment 2"
+    ],
+    "links": {
+        
+    }
+}
