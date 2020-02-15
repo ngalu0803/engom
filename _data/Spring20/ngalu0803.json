@@ -1,13 +1,13 @@
 {
     "emoji": ":smirk_cat:",
     "role": "Student",
-    "introduction": "write something about yourself",
+    "introduction": "I am 52 years old married with kid and excited to take CLasses at Uc",
     "achievements": [
-        "Achievement1",
-        "Achievment 2",
-        "Achievemnt 3"
+        "Achievement1" "-Working on Non gouvernment type of organization helping medically rural population in North Senegal (West Africa)"
+        "Achievment 2" "-Visited almost all continents"
+        "Achievemnt 3"  "Working full time job and attending UC"
     ],
-    "links": {
+    "links": {"https://www.linkedin.com/in/elhadji-ngom-728452183/"
         
     }
 }
